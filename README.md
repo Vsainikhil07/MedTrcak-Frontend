@@ -1,18 +1,18 @@
-# MedTrack – Healthcare Management System
+# MedTrack – Frontend
 
 ## About the Project
 
-MedTrack is a healthcare management application designed to help users manage their medicines, prescriptions, reminders, and pharmacy-related information in one place.
-
-The frontend is developed using React.js and provides an interactive interface for accessing the application's features.
+MedTrack is a healthcare management application frontend developed using React.js. It provides a user-friendly interface for managing medicine-related information and accessing different sections of the application.
 
 ## Features
 
-- **Medicine Management:** Add, view, edit, and delete medicine records.
-- **Prescription Management:** Manage prescription-related information.
-- **Medicine Reminders:** Access the medicine reminder section.
-- **Pharmacy Locator:** Access pharmacy-related information through the application.
-- **Backend Integration:** Connects the frontend to a Spring Boot backend for application data management.
+- Interactive and user-friendly interface
+- Medicine management interface
+- Prescription management interface
+- Medicine reminders interface
+- Pharmacy locator interface
+- Reusable React components
+- Responsive styling using CSS
 
 ## Technologies Used
 
@@ -20,6 +20,7 @@ The frontend is developed using React.js and provides an interactive interface f
 - JavaScript
 - CSS
 - Vite
+- ESLint
 
 ## Project Structure
 
@@ -35,40 +36,28 @@ frontend/
 └── README.md
 ```
 
-## How to Run the Project
+## How to Run
 
-**Prerequisites:** Node.js and npm.
+**Prerequisite:** Node.js and npm.
 
-1. Clone or download this repository.
-2. Open the frontend folder in a terminal.
-3. Install the dependencies:
+1. Install dependencies:
 
    ```bash
    npm install
    ```
 
-4. Start the development server:
+2. Start the development server:
 
    ```bash
    npm run dev
    ```
 
-5. Open the local URL displayed in the terminal.
+3. Open the local URL displayed in the terminal.
 
-## Project Architecture
+## Purpose
 
-- **Frontend:** React.js
-- **Backend:** Java and Spring Boot
-- **Database:** MySQL
-
-The frontend communicates with the backend to perform application operations and manage data.
-
-## Future Enhancements
-
-- Improve the user interface and responsiveness.
-- Enhance medicine reminder functionality.
-- Extend prescription and pharmacy features.
+The frontend focuses on providing a clear, accessible interface and a smooth user experience for the MedTrack application.
 
 ---
 
-**MedTrack — Making medicine management simpler.**
+**MedTrack Frontend | React.js + Vite**
