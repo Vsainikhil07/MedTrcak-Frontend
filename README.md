@@ -93,4 +93,4 @@ The frontend aims to provide a clear, accessible, and user-friendly interface fo
 
 **Vadla Sai Nikhil**  
 Anurag University  
-B.Tech – ECE, 3rd Year
+B.Tech – ECE-D, 3rd Year
