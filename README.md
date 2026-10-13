@@ -95,3 +95,4 @@ The frontend aims to provide a clear, accessible, and user-friendly interface fo
 Anurag University  
 Roll No: 25EG504D07
 B.Tech – ECE-D, 3rd Year
+Project documentation for the MedTrack frontend.
